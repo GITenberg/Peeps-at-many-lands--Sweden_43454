@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '42219'
     url: http://www.gutenberg.org/2009/agents/42219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43454#Peeps-at-many-lands--Sweden
 gutenberg_issued: '2013-08-12'
 gutenberg_type: Text
 identifiers:
